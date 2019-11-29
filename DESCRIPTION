@@ -1,0 +1,17 @@
+Package: tidyproject
+Title: Setup the initial file structure and packages of a project
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Paula Andrea",
+           family = "Martinez",
+           role = c("aut", "cre"),
+           email = "orchid00@gmail.com",
+           comment = c(ORCID = "0000-0002-8990-1985"))
+Description: Setups the initial file structure and install required packages for a new project.
+License: CCBY-4.0
+Suggests: 
+    testthat
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.0.1
