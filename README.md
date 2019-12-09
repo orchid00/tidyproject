@@ -14,11 +14,11 @@ instructions.
 
 ## Installation
 
-You can install the released version of tidyproject from
-[CRAN](https://CRAN.R-project.org) with:
+You can install the released version of tidyproject 
 
 ``` r
-install.packages("tidyproject")
+library(devtools)
+install_github("orchid00/tidyproject")
 ```
 
 ## Example
