@@ -28,7 +28,15 @@ This is a basic example which shows you how to solve a common problem:
 ``` r
 library(tidyproject)
 ## basic example code
+createStr() ## creates a folder structure for projects
 ```
+
+Looks like this:
+
+"./data"                                   
+"./plots"                                  
+"./rmarkdown"                              
+"./scripts"   
 
 What is special about using `README.Rmd` instead of just `README.md`?
 You can include R chunks like so:
